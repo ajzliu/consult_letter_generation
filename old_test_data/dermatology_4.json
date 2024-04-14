@@ -1,0 +1,25 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Smith",
+        "email": "dralicesmith@clinic.com"
+    },
+    "specialty": "Dermatology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Robert",
+        "Chief Complaint": "Persistent rash on both hands",
+        "History of Present Illness": "• Rash has been present for two months\n• Initially small patches, now more widespread\n• Itchy and occasionally painful",
+        "Past Medical History": "Previous episodes of eczema, managed with topical steroids",
+        "Past Surgical History": null,
+        "Family History": "Mother has psoriasis",
+        "Social History": "Robert is a chef and is frequently exposed to various cooking ingredients",
+        "Current Medications": "Topical steroid cream as needed",
+        "Allergies": "Penicillin",
+        "Review of Systems": "No respiratory, gastrointestinal, or urinary symptoms",
+        "Vital Signs": "BP: 120/80 mmHg, Pulse: 75 bpm, Temp: 98.6 F, Resp: 16 bpm",
+        "Physical Examination": "• Examination of the skin shows widespread erythematous, scaly rash on dorsum of both hands\n• No lesions or rashes noted elsewhere",
+        "Investigations": "Advised patch testing to identify potential allergens",
+        "Assessment": "Chronic hand dermatitis potentially exacerbated by occupational exposure",
+        "Plan": "• Continue using topical steroid as needed\n• Schedule patch testing\n• Review potential irritants in workplace\n• Follow-up visit in 2 weeks to reassess and discuss test results"
+    }
+}

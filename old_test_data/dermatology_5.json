@@ -1,0 +1,33 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Smith",
+        "email": "dralicesmith@skinclinic.com"
+    },
+    "specialty": "Dermatology",
+    "note_content": {
+        "Patient Name": "Tom",
+        "Chief Complaint": "Chronic dermatitis worsening over the past month",
+        "History of Present Illness": "• Persistent redness and itchiness on lower legs\n• Previously controlled with topical steroids\n• New patches appeared on arms",
+        "Past Medical History": "• Asthma, controlled with inhaler\n• No previous surgeries",
+        "Family History": "• Mother with similar skin condition, diagnosed as eczema",
+        "Social History": "Tom is a high school teacher, non-smoker, drinks alcohol occasionally on weekends.",
+        "Review of Systems": "• Occasionally wheezing due to asthma\n• No fever, weight loss, or night sweats",
+        "Current Medications": "• Inhaler as needed for asthma\n• Previously used hydrocortisone cream for skin",
+        "Allergies": "• Pollen\n• No known drug allergies",
+        "Physical Examination": "• Erythematous and scaly patches on both lower legs\n• New similar patches visible on forearms\n• No signs of infection",
+        "Assessment and Plan": {
+            "Problem 1": "Exacerbation of chronic dermatitis",
+            "Differential Diagnosis": [
+                "Contact dermatitis",
+                "Psoriasis"
+            ],
+            "Plan": [
+                "• Prescribe a stronger topical corticosteroid for two weeks",
+                "• Advise to moisturize regularly and avoid known irritants",
+                "• Follow-up appointment in two weeks to evaluate response to the treatment",
+                "• Consider dermatology referral if no improvement"
+            ]
+        }
+    },
+    "note_date": "2023-02-15"
+}

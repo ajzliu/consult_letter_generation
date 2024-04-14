@@ -1,0 +1,29 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Heartwell",
+        "email": "dralice@heartclinic.com"
+    },
+    "specialty": "Cardiology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Robert",
+        "Patient Age": 54,
+        "Gender": "male",
+        "Chief Complaint": "Chest discomfort and shortness of breath on exertion.",
+        "History of Present Illness": "Reports increasing episodes of chest pain and breathlessness, especially when climbing stairs or walking uphill over the past 2 months.",
+        "Past Medical History": "Hypertension managed with medication, past smoker, quit 5 years ago.",
+        "Past Surgical History": "Appendectomy at age 30.",
+        "Family History": "Father had a myocardial infarction at age 62.",
+        "Social History": "Works as a financial advisor, lives with wife, does not exercise regularly, denies alcohol, tobacco or drug use.",
+        "Obstetric History": "Not applicable",
+        "The Review of Systems": "Occasionally dizzy, no syncope, no palpitations. No complaints of upper or lower extremity swelling, No cough.",
+        "Current Medications": "Lisinopril 10mg daily.",
+        "Allergies": "No known drug allergies.",
+        "Vital Signs": "BP 145/90, HR 78, Temp 98.6 F, RR 18",
+        "Physical Examination": "Mild obesity, lungs clear, cardiac examination shows regular rate and rhythm, no murmurs, soft S4 noted, no gallops or rubs.",
+        "Investigations": "EKG showed mild left ventricular hypertrophy, chest x-ray was normal.",
+        "Problem": "Suspected ischemic heart disease.",
+        "Differential Diagnosis": "Angina pectoris, myocardial infarction, aortic stenosis",
+        "Plan": "Refer for stress test, continue antihypertensive medication, advise to start low-impact aerobic exercises, consider dietary consultation for weight management, follow-up in 2 weeks or sooner if symptoms worsen."
+    }
+}

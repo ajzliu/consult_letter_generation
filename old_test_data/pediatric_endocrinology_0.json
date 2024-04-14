@@ -1,0 +1,30 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Smith",
+        "email": "dralicesmith@pediatricclinic.com"
+    },
+    "specialty": "Pediatric Endocrinology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Tommy",
+        "Patient Age": "10",
+        "Gender": "male",
+        "Chief Complaint": "Frequent headaches and episodes of dizziness.",
+        "History of Present Illness": "The patient has been experiencing recurrent headaches over the past two months, often accompanied by dizziness. No noticeable patterns but seems to occur more often post physical activity.",
+        "Past Medical History": "Tommy was diagnosed with Type 1 Diabetes Mellitus at age 7. His diabetes has been generally well-controlled with insulin therapy.",
+        "Past Surgical History": "None.",
+        "Family History": "His father has Type 2 Diabetes and maternal grandmother has hypothyroidism.",
+        "Social History": "Tommy is in fifth grade; enjoys soccer and video games. Lives with parents and one older sibling.",
+        "Review of Systems": "Overall, the patient reports fatigue and occasional blurred vision, but no other significant findings like weight loss, fever, or night sweats.",
+        "Current Medications": "Insulin aspart 5 units with meals, and insulin detemir 15 units at bedtime.",
+        "Allergies": "No known drug allergies.",
+        "Vital Signs": "BP 110/70, HR 78, Temp 98.6 F, Height 140 cm, Weight 40 kg.",
+        "Physical Examination": "General: alert and oriented x3, in no acute distress. HEENT: PERRLA, EOMI, no nystagmus. Neck: supple, no thyromegaly. Cardiovascular: Regular rate and rhythm, no murmurs. Respiratory: Clear to auscultation bilaterally. Neurological: Alert, cranial nerves II-XII are intact, normal gait. Skin: No rashes. Abdomen: Soft, non-tender.",
+        "Investigations": "Blood glucose level at time of exam was 165 mg/dL.",
+        "Assessment and Plan": {
+            "Problem 1": "Frequent headaches and dizziness possibly related to post-exertional hypoglycemia.",
+            "Differential Diagnosis": "1. Hypoglycemia, 2. Dehydration, 3. Migraine",
+            "Plan": "- Review and adjust insulin regimen after evaluating glucose logs.\n- Encourage regular hydration, especially before and after exercise.\n- Schedule a follow-up in 2 weeks or sooner if symptoms persist or worsen.\n- Consider referral to a neurologist if no improvement."
+        }
+    }
+}

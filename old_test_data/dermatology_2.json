@@ -1,0 +1,21 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Smith",
+        "email": "dralicesmith@clinic.com"
+    },
+    "specialty": "Dermatology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Michael Johnson",
+        "Chief Complaint": "Recurring rash and itching on arms and legs.",
+        "History of Present Illness": "Patient reports a rash that began approximately one week ago, initially on the arms, spreading to the legs. The rash is red, slightly raised, and severely itchy. No previous history of such skin issues.",
+        "Social History": "Works as a landscaper, spends considerable time outdoors. No known drug use. Non-smoker.",
+        "The Review of Systems": "Reports general good health. No fevers, weight loss, or other systemic symptoms.",
+        "Current Medications": "None",
+        "Allergies": "No known allergies.",
+        "Physical Examination": "Visible erythematous plaques on both forearms and lower legs. Some plaques have an overlying fine scale. No other skin abnormalities noted.",
+        "Problem": "1. Suspected contact dermatitis",
+        "Differential Diagnosis": "1. Eczema\n2. Psoriasis\n3. Fungal infection",
+        "Plan": "• Prescribed topical corticosteroids for two weeks\n• Advised to avoid known irritants and wear protective clothing outdoors\n• Follow-up appointment in three weeks to re-evaluate condition\n• Recommended patch testing if no improvement"
+    }
+}

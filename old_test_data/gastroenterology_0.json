@@ -1,0 +1,28 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Smith",
+        "email": "dralicesmith@healthclinic.com"
+    },
+    "specialty": "Gastroenterology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Robert Johnson",
+        "Patient Age": "45",
+        "Gender": "male",
+        "Chief Complaint": "Chronic abdominal pain and bloating",
+        "History of Present Illness": "Patient reports persistent abdominal pain and bloating for the past six months. Pain is primarily in the lower abdomen without radiation. Severity of pain fluctuates, occasionally severe. No changes with bowel movements.",
+        "Past Medical History": "Hypertension, Type 2 diabetes.",
+        "Past Surgical History": "Appendectomy at age 22.",
+        "Family History": "Father had colon cancer. Mother has hypertension.",
+        "Social History": "Works as a software engineer. Non-smoker. Drinks alcohol socially. No recreational drug use.",
+        "Review of Systems": "Reported occasional nausea but no vomiting. Denies fever, weight loss, or night sweats. Normal bowel movements.",
+        "Current Medications": "Metformin, Lisinopril.",
+        "Allergies": "NKA (No Known Allergies)",
+        "Vital Signs": "BP 140/85, HR 78, Temp 98.6 F, Weight 200 lbs",
+        "Physical Examination": "Abdomen is soft, non-distended, with mild tenderness in the lower quadrants bilaterally. No rebound or guarding.",
+        "Laboratory Findings": "CBC normal, CMP shows slightly elevated glucose. Other tests within normal limits.",
+        "Imaging": "Abdominal ultrasound showed no gallstones or significant abnormalities.",
+        "Assessment": "Functional Dyspepsia likely, considering ruling out inflammatory bowel disease.",
+        "Plan": "Start trial of proton pump inhibitor. Schedule follow-up in 4 weeks. Patient advised to maintain a food diary and avoid foods that exacerbate symptoms. Consider CT abdomen if no improvement."
+    }
+}

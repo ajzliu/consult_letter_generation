@@ -1,0 +1,34 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Johnson",
+        "email": "dralicejohnson@radiologycenter.com"
+    },
+    "specialty": "Diagnostic Radiology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Tom Smith",
+        "Chief Complaint": "Persistent lower back pain",
+        "History of Present Illness": "Patient reports chronic back pain worsening over the past 6 months, not alleviated by over-the-counter medications.",
+        "Past Medical History": "History of hypertension, controlled with medication.",
+        "Past Surgical History": "Appendectomy performed in 2015.",
+        "Family History": "Father had a history of osteoporosis.",
+        "Social History": "Works as a software developer, sedentary lifestyle, non-smoker, occasional alcohol consumption.",
+        "Current Medications": "Lisinopril for hypertension.",
+        "Allergies": "No known allergies.",
+        "Physical Examination": "Limited range of motion in lower back, palpable tenderness in lumbar region, no apparent swelling.",
+        "Investigations": {
+            "X-ray Findings": "Lumbar spine x-ray shows mild disc degeneration at L3-L4.",
+            "MRI Findings": "MRI of the lumbar spine reveals a small central disc protrusion at L3-L4 without significant nerve root compression."
+        },
+        "Problem": "Chronic lower back pain likely due to disc degeneration.",
+        "Differential Diagnosis": "Osteoporosis, muscular strain, herniated disc.",
+        "Plan": {
+            "Continue current hypertension medication, add ibuprofen for pain management, physical therapy referral specializing in spine rehabilitation, schedule a follow-up in 30 days, consider bone density scan if no improvement.": "routine screening, and patient education on proper posture and ergonomics at work."
+        },
+        "Radiology Discussion": {
+            "Purpose of Investigations": "To assess the integrity of the lumbar spine and identify potential causes of back pain.",
+            "Findings Interpretation": "Mild disc degeneration is consistent with the patient's symptoms but not severe enough for surgical intervention at this stage.",
+            "Recommendations": "Regular monitoring with follow-up imaging in 6 months or earlier if symptoms exacerbate."
+        }
+    }
+}

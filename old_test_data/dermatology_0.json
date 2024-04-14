@@ -1,0 +1,35 @@
+{
+    "user_info": {
+        "name": "Dr. Emily Turner",
+        "email": "dremilyturner@dermaclinic.com"
+    },
+    "specialty": "Dermatology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Thomas Brown",
+        "Patient Age": 42,
+        "Gender": "male",
+        "Chief Complaint": "Concerns about increasing number of moles and recent changes in their appearance.",
+        "History of Present Illness": "Patient noticed several new moles over the past 6 months that have been changing in color and size. Not associated with pain or bleeding.",
+        "Past Medical History": "Hypertension, controlled with medication; no previous skin issues.",
+        "Past Surgical History": "Appendectomy at age 22.",
+        "Family History": "Mother had melanoma, diagnosed at age 65.",
+        "Social History": "Non-smoker, consumes alcohol socially, works as a construction manager, often exposed to sun.",
+        "Review of Systems": "No weight loss, fever, or fatigue. No new rashes or itching, aside from the areas around the new moles.",
+        "Current Medications": "Lisinopril for hypertension.",
+        "Allergies": "No known drug allergies.",
+        "Vital Signs": "Blood pressure stable at 130/85, normal heart rate, temperature, and respiratory rate.",
+        "Physical Examination": "New moles noted on upper back and shoulders, varying from tan to dark brown, some with irregular borders, ranging from 2-6mm. No signs of infection or ulceration.",
+        "Investigations": "Biopsy of two most suspicious moles recommended.",
+        "Assessment and Plan": {
+            "Problem List": "Atypical moles with potential for melanoma.",
+            "Differential Diagnosis": "Dysplastic nevus, benign nevocellular nevus, melanoma.",
+            "Plan": [
+                "Scheduled skin biopsy of questionable moles.",
+                "Follow-up appointment for biopsy results and further evaluation in 2 weeks.",
+                "Patient education on skin cancer awareness and sun protection advised.",
+                "Monitor blood pressure and continue current antihypertensive regimen."
+            ]
+        }
+    }
+}

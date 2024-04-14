@@ -1,0 +1,30 @@
+{
+    "test_case": {
+        "user_info": {
+            "name": "Dr. Emily Strauss",
+            "email": "dremilystrauss@oncologycenter.com"
+        },
+        "specialty": "Radiation Oncology",
+        "note_date": "2024-04-15",
+        "note_content": {
+            "Patient Name": "Michael Thompson",
+            "Chief Complaint": "Follow-up consultation for ongoing radiation therapy management in prostate cancer.",
+            "History of Present Illness": "Patient continues to receive radiation therapy as scheduled. Reports mild fatigue and occasional mild skin irritation but no severe reactions or complications.",
+            "Past Medical History": "Diagnosed with localized prostate cancer in early 2023. No other significant medical history.",
+            "Past Surgical History": "Prostate biopsy in 2023 confirmed cancer diagnosis, no other surgical history.",
+            "Family History": "Father died of prostate cancer at age 67.",
+            "Social History": "Michael is retired and lives with his wife. Non-smoker and occasional alcohol use.",
+            "Obstetric History": "N/A",
+            "The Review of Systems": "Patient denies any unexpected symptoms; reports expected side effects of radiation therapy including fatigue.",
+            "Current Medications": "None specified.",
+            "Allergies": "No known drug allergies.",
+            "Vital Signs": "Blood pressure stable, other vital signs within normal limits.",
+            "Physical Examination": "Skin check around radiation site shows minimal erythema, no signs of severe burns or ulcerations.",
+            "Investigations": "Latest PSA levels have shown a good response to treatment; levels are decreasing as expected.",
+            "Problem": "Ongoing management of localized prostate cancer with radiation therapy.",
+            "Differential Diagnosis": "N/A",
+            "Plan": "Continue with the current course of radiation therapy. Monitor for any severe reactions or changes in symptoms. Follow up in one month or earlier if symptoms worsen."
+        }
+    },
+    "grading_criteria": "- The letter shall have the doctor's name 'Dr. Emily Strauss' and the email address 'dremilystrauss@oncologycenter.com'.\n- The letter shall mention patient name as Michael Thompson, and the encounter happened at 2024-04-15.\n- The letter should accurately describe the ongoing radiation therapy and management for localized prostate cancer.\n- The letter should mention the patient's previous prostate biopsy.\n- The letter should reflect the treatment plan including continuation of radiation therapy and monitoring for severe reactions.\n- The letter should not include a subject line or salutation, e.g. 'Dear colleague,'."
+}

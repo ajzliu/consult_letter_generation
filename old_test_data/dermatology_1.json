@@ -1,0 +1,35 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Smith",
+        "email": "dralicesmith@dermaclinic.com"
+    },
+    "specialty": "Dermatology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Michael Thompson",
+        "Chief Complaint": "Severe acne and occasional flare-ups of eczema",
+        "History of Present Illness": "Patient reports having acne since teenage years, worsening over the past six months. Eczema flare-ups occur mostly in winter.",
+        "Past Medical History": "Diagnosed with atopic dermatitis since childhood.",
+        "Past Surgical History": "Appendectomy at age 15.",
+        "Family History": "Mother has history of psoriasis. No known family history of acne or other skin disorders.",
+        "Social History": "Michael is a university student studying computer science, lives in a shared apartment. Non-smoker, occasional alcohol.",
+        "Review of Systems": "No other skin lesions or symptoms reported besides the complaints of acne and eczema.",
+        "Current Medications": "Intermittent use of topical hydrocortisone for eczema flare-ups.",
+        "Allergies": "No known drug allergies.",
+        "Physical Examination": "Presence of pustular acne on the face and back, eczematous patches noted on both arms.",
+        "Investigations": "None yet performed, plan to request blood tests and possibly a skin biopsy.",
+        "Assessment and Plan": {
+            "Problems": [
+                "1. Acne vulgaris - ongoing severe case.",
+                "2. Eczema - seasonal exacerbations."
+            ],
+            "Differential Diagnosis": "Rule out hormonal imbalances or endocrine disorders contributing to acne severity.",
+            "Plan": [
+                "Continue with topical treatments and introduce oral antibiotics for acne.",
+                "Advise on proper skincare routines.",
+                "Regular moisturizing to manage eczema.",
+                "Follow-up appointment in 4 weeks to evaluate the effect of new acne medication and consider dermatological referral if no improvement."
+            ]
+        }
+    }
+}

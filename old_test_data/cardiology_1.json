@@ -1,0 +1,27 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Heart",
+        "email": "draliceheart@hospital.com"
+    },
+    "specialty": "Cardiology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Mark B.",
+        "Patient Age": "54",
+        "Gender": "Male",
+        "Chief Complaint": "Recent onset of chest pain and shortness of breath.",
+        "History of Present Illness": "Chest pain started 2 weeks ago, primarily with physical exertion. Shortness of breath accompanies the pain.",
+        "Past Medical History": "Hypertension diagnosed 5 years ago, controlled on medication. No history of coronary artery disease.",
+        "Past Surgical History": "Appendectomy at age 20.",
+        "Family History": "Father had a myocardial infarction at age 60.",
+        "Social History": "Currently a smoker, smoking half a pack per day for 20 years. No alcohol or drug use. Works as an accountant.",
+        "Review of Systems": "Positive for fatigue and occasional dizziness. Negative for fever, weight loss, or other systemic symptoms.",
+        "Current Medications": "Lisinopril 10mg daily for hypertension.",
+        "Allergies": "No known allergies.",
+        "Vital Signs": "BP: 140/90, HR: 78, Temp: 98.6 F, Resp: 14",
+        "Physical Examination": "General appearance well-kept, mild distress evident from facial expression. Lungs clear, heart exam reveals no murmurs. Mild tenderness on palpation of the chest wall.",
+        "Investigations": "ECG conducted showed T-wave inversion in leads II, III, and AVF. Chest X-ray was normal.",
+        "Assessment and Plan": "Primary suspect is stable angina. Recommended stress test and consider adding aspirin and a beta-blocker to the treatment regime. Further cardiac evaluation will be scheduled within one week. Urged patient to seek immediate care if symptoms worsen.",
+        "Differential Diagnosis": "Possible angina pectoris, myocardial infarction, or musculoskeletal pain."
+    }
+}

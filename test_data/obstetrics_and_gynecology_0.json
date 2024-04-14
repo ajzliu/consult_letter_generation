@@ -1,0 +1,30 @@
+{
+    "test_case": {
+        "user_info": {
+            "name": "Dr. Sarah Lee",
+            "email": "drsarahlee@clinic.com"
+        },
+        "specialty": "Obstetrics & Gynecology (ObGyn)",
+        "note_date": "2021-09-03",
+        "note_content": {
+            "Patient Name": "Emily Carter",
+            "Chief Complaint": "Regular prenatal check-up.",
+            "History of Present Illness": "Patient is feeling well, no complaints.",
+            "Past Medical History": "Mild gestational diabetes well controlled with diet.",
+            "Past Surgical History": "No previous surgeries.",
+            "Family History": "No significant genetic diseases or conditions.",
+            "Social History": "Non-smoker, occasional alcohol before pregnancy, currently abstaining. Works as a freelance graphic designer.",
+            "Obstetric History": "First pregnancy, no complications noted to date.",
+            "The Review of Systems": "Normal as of this visit, no signs of distress or abnormalities noted.",
+            "Current Medications": "Prenatal vitamins.",
+            "Allergies": "None reported.",
+            "Vital Signs": "BP 110/70, Heart Rate 68 bpm, Temperature 98.6 F.",
+            "Physical Examination": "Abdomen palpated, fetus size appropriate for gestational age. No tenderness or unusual findings.",
+            "Investigations": "Ultrasound conducted, shows healthy fetus.",
+            "Problem": "1. Gestational diabetes (controlled)",
+            "Differential Diagnosis": "None needed at this stage, pregnancy progressing normally.",
+            "Plan": "Continue current diet for gestational diabetes control. Return for next routine visit in 4 weeks or sooner if any concerns arise."
+        }
+    },
+    "grading_criteria": "- The letter shall have the doctor's name Dr. Sarah Lee and the email drsarahlee@clinic.com.\n- The letter shall mention patient name as Emily Carter, and the encounter happened on 2021-09-03.\n- The letter shall mention mild gestational diabetes well controlled with diet.\n- The letter shall include details from the obstetric history indicating this is the patient's first pregnancy.\n- The letter shall mention the ongoing use of prenatal vitamins.\n- The letter shall not include a subject line or salutation, such as 'Dear colleague,'."
+}

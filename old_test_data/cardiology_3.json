@@ -1,0 +1,29 @@
+{
+    "specialty": "Cardiology",
+    "test_case": {
+        "user_info": {
+            "name": "Dr. Jane Smith",
+            "email": "drjanesmith@heartclinic.com"
+        },
+        "specialty": "Cardiology",
+        "note_date": "2023-03-10",
+        "note_content": {
+            "Patient Name": "Edward Morris",
+            "Patient Age": "58",
+            "Gender": "Male",
+            "Chief Complaint": "Experiencing chest pain and shortness of breath.",
+            "History of Present Illness": "The patient has been experiencing intermittent chest pain and discomfort, particularly after physical exertion, for the past two weeks. Symptoms include shortness of breath and occasional dizziness.",
+            "Past Medical History": "Has a history of hypertension and high cholesterol, managed with medication. No previous cardiac events.",
+            "Past Surgical History": "Underwent appendectomy at age 30.",
+            "Family History": "Father had a heart attack at age 65; mother has diabetes.",
+            "Social History": "Smoker for 40 years, approximately 10 cigarettes per day. Minimal alcohol intake. Works as a construction manager.",
+            "Review of Systems": "Recently noted increased fatigue, specifically in the late afternoons. No fevers, night sweats, or weight loss.",
+            "Current Medications": "Lisinopril 10 mg once daily, Atorvastatin 20 mg once daily.",
+            "Allergies": "NKA (No Known Allergies)",
+            "Vital Signs": "Blood pressure 155/90 mmHg, Pulse 88 bpm, Temperature 98.6 F, Respiratory rate 18 bpm.",
+            "Physical Examination": "Physical exam shows mild distress due to chest pain; cardiovascular exam reveals regular rate and rhythm, no murmurs, rubs, or gallops.",
+            "Investigations": "ECG performed showing slight ST-segment elevation; immediate cardiology consultation advised.",
+            "Assessment and Plan": "Preliminary diagnosis of unstable angina. Plan to admit for further cardiac workup including echocardiography, and potential cardiac catheterization if warranted. Modify antihypertensive medication and increase statin dose."
+        }
+    }
+}

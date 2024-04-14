@@ -1,0 +1,29 @@
+{
+    "test_case": {
+        "user_info": {
+            "name": "Dr. Alice Smith",
+            "email": "dralicesmith@hospital.com"
+        },
+        "specialty": "Surgery",
+        "note_date": "2022-03-25",
+        "note_content": {
+            "Patient Name": "Robert",
+            "Chief Complaint": "Rapid weight loss and fainting episodes over the past 2 months",
+            "History of Present Illness": "Robert has reported losing approximately 50 pounds without any major changes in diet or exercise. Additionally, he has had several fainting episodes.",
+            "Past Medical History": "Known diabetic controlled with medication; hypertension well managed with diet and exercise.",
+            "Past Surgical History": "None reported",
+            "Family History": "Father had cardiac issues.",
+            "Social History": "Robert is a school teacher who does not smoke but drinks socially.",
+            "The Review of Systems": "Positive for fainting, weight loss, and occasional headaches. No reports of fever, night sweats, or other systemic symptoms.",
+            "Current Medications": "Metformin, Amlodipine",
+            "Allergies": "No known allergies",
+            "Vital Signs": "BP 130/85, Heart Rate 78, Normal temp",
+            "Physical Examination": "General appearance of chronic illness, pale, no acute distress. Abdomen tender on deep palpation but no guarding or rebound.",
+            "Investigations": "Blood tests ordered for CBC, CMP, thyroid function tests, and cortisol levels. ECG and echocardiogram planned.",
+            "Problem": "Unexplained weight loss and syncope",
+            "Differential Diagnosis": "Possible adrenal insufficiency, thyroid issues, or malignancy.",
+            "Plan": "Continue monitoring vital signs, ensure patient eats more frequent, smaller meals to stabilize blood sugar. Follow up on test results and consider referral to endocrinology or oncology depending on outcomes."
+        }
+    },
+    "grading_criteria": "- The letter shall have the doctor's name \"Dr. Alice Smith\" and the email \"dralicesmith@hospital.com\").\n- The letter shall mention patient name as Robert, and the encounter happened at 2022-03-25.\n- The letter shall mention the patient's unexplained weight loss and syncope.\n- The letter shall mention that investigations including blood tests and ECG are planned.\n- The letter shall mention Robert is a known diabetic and hypertensive.\n- The letter shall not include a subject line or salutation, e.g. \"Dear colleague,\"."
+}

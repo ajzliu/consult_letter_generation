@@ -1,0 +1,25 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Smith",
+        "email": "dralicesmith@dermaclinic.com"
+    },
+    "specialty": "Dermatology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Michael Thompson",
+        "Chief Complaint": "Recurring eczema on both hands.",
+        "History of Present Illness": "Patient reports flare-ups mainly during winter months. Itching and irritation increase with skin dryness.",
+        "Past Medical History": "Eczema diagnosed five years ago. No other chronic diseases reported.",
+        "Family History": "Michael's mother has a history of psoriasis.",
+        "Social History": "Michael is a graphic designer, works mostly indoors, non-smoker, occasionally drinks alcohol.",
+        "Allergies": "Allergic to latex.",
+        "Current Medications": "Hydrocortisone cream as needed.",
+        "Physical Examination": "Dry, red patches observed on the palms and fingers, slight skin cracking without bleeding.",
+        "Review of Systems": "No systemic symptoms reported.",
+        "Investigations": "None.",
+        "Assessment and Plan": {
+            "Problem": "Chronic eczema",
+            "Plan": "· Continue to use hydrocortisone cream.\n· Recommended daily use of a moisturizer.\n· Advised to wear non-latex gloves during cold weather.\n· Follow-up in 4 weeks to reassess skin condition."
+        }
+    }
+}

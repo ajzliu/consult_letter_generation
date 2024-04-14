@@ -1,0 +1,5 @@
+[project]
+name = "consult_letter_generation"
+version = "0.0.1"
+description = ''
+readme = "README.md"

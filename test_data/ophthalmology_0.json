@@ -1,0 +1,27 @@
+{
+    "test_case": {
+        "user_info": {
+            "name": "Dr. Emily White",
+            "email": "dremilywhite@visioncare.com"
+        },
+        "specialty": "Ophthalmology",
+        "note_date": "2022-08-16",
+        "note_content": {
+            "Patient Name": "Robert Allen",
+            "Chief Complaint": "Experiencing decreased vision and discomfort in the right eye",
+            "History of Present Illness": "• Sudden onset of blurry vision past week • Mild to moderate discomfort • No history of such symptoms previously",
+            "Past Medical History": "Diagnosed with hypertension and type 2 diabetes",
+            "Past Surgical History": "Appendectomy in 2010",
+            "Family History": "Mother has advanced glaucoma, Father had cataracts in his late 60s.",
+            "Social History": "Robert is a retired school teacher, non-smoker and occasionally drinks alcohol.",
+            "The Review of Systems": "Reports general well-being with no other systemic complaints.",
+            "Current Medications": "Metformin, Lisinopril",
+            "Allergies": "No known drug allergies",
+            "Vital Signs": "BP 140/90, Pulse 78 regular, BMI 29",
+            "Physical Examination": "• Visual acuity: right eye 20/50, left eye 20/20 • Slit lamp examination of the right eye shows slight corneal abrasion • Fundoscopy reveals stable diabetic retinopathy",
+            "Investigations": "Recommended comprehensive eye exam and follow-up with retinal specialist",
+            "Assessment and Plan": "• Immediate treatment for corneal abrasion with antibiotic eye drops • Close monitoring of diabetic retinopathy • Regular follow-ups every six months or as required • Advised control of blood sugar and hypertension to minimize vision-related complications"
+        }
+    },
+    "grading_criteria": "- The letter shall have Dr. Emily White's name and email as specified: dremilywhite@visioncare.com.\n- The letter shall mention patient name as Robert Allen, and the encounter happened at 2022-08-16.\n- The letter shall refer to the sudden onset of blurry vision and discomfort in the right eye.\n- The letter shall note the diagnosis of hypertension and type 2 diabetes.\n- The letter shall outline the treatment plan including the use of antibiotic eye drops and monitoring of diabetic retinopathy.\n- The letter should not include a subject line or salutation, e.g. 'Dear colleague,'."
+}

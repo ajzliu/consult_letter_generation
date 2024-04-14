@@ -1,0 +1,31 @@
+{
+    "user_info": {
+        "name": "Dr. Alice Smith",
+        "email": "dralicesmith@endoclinic.com"
+    },
+    "specialty": "Endocrinology",
+    "note_date": "2023-02-15",
+    "note_content": {
+        "Patient Name": "Mark",
+        "Patient Age": "42",
+        "Gender": "Male",
+        "Chief Complaint": "Issues with fatigue and weight gain",
+        "History of Present Illness": "Patient reports gradual increase in fatigue and weight gain over the past 6 months without significant changes in diet or activity level.",
+        "Past Medical History": "History of hypertension, well controlled on medication",
+        "Social History": "Smokes occasionally, consumes alcohol socially; no recreational drug use.",
+        "Current Medications": "Hydrochlorothiazide",
+        "Allergies": "None reported",
+        "Vital Signs": "BP: 130/85, HR: 78, T: 98.6 F, Wt: 220 lbs",
+        "Physical Examination": "General appearance of fatigue, no distress; thyroid gland palpably enlarged, no nodules or tenderness.",
+        "Laboratory Examinations": "CBC within normal limits; lipid profile shows elevated cholesterol and low HDL; Thyroid function tests ordered",
+        "Assessment and Plan": {
+            "Problem 1": "Suspected Hypothyroidism",
+            "Plan": [
+                "Continue monitoring BP",
+                "Start low-iodine diet as preparation for potential radioactive iodine uptake test",
+                "Thyroid function test results pending, follow-up appointment in 3 weeks",
+                "Educate patient on symptoms of hypothyroidism and importance of treatment adherence"
+            ]
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "test_case": {
+        "user_info": {
+            "name": "Dr. Alice Smith",
+            "email": "dralicesmith@allergycenter.com"
+        },
+        "specialty": "Allergy and Immunology",
+        "note_date": "2024-01-23",
+        "note_content": {
+            "Patient Name": "Michael Johnson",
+            "Chief Complaint": "Recurring rash and difficulty breathing, suspects allergic reaction.",
+            "History of Present Illness": "The patient reports a rash appearing periodically over the last 6 months, accompanied by episodes of difficulty breathing. Symptoms seem to worsen with exposure to outdoor environments, particularly during spring.",
+            "Past Medical History": "The patient has a history of asthma diagnosed in childhood. Regular follow-ups with a pulmonologist over the years but has not had an asthma attack in the past 3 years.",
+            "Past Surgical History": "None.",
+            "Family History": "Mother has chronic urticaria; father has no significant medical history.",
+            "Social History": "Michael is a librarian, non-smoker, and has no pets. Frequently engages in outdoor activities, especially hiking, which seem to trigger symptoms.",
+            "Review of Systems": "Reported symptoms include wheezing, shortness of breath, and a recurring itchy rash. No GI symptoms, recent fevers, or joint pains.",
+            "Current Medications": "Uses an inhaler for asthma control (salbutamol as needed).",
+            "Allergies": "No known drug allergies. Suspected environmental allergies.",
+            "Vital Signs": "Blood pressure 120/80, Heart rate 72 bpm, Respiratory rate 16/min.",
+            "Physical Examination": "Rash noted on forearms and neck. Chest auscultation reveals slight wheezing bilaterally. No other abnormalities noted.",
+            "Investigations": "Blood tests for common allergens ordered, Spirometry performed - awaiting results.",
+            "Assessment and Plan": "The patient is advised to avoid known triggers and take antihistamines as prescribed. A follow-up after test results is mandatory to adjust treatment plan. Considering allergy shots depending on the tests."
+        }
+    },
+    "grading_criteria": "- The letter shall have the doctor's name \"Dr. Alice Smith\" and the email address \"dralicesmith@allergycenter.com\".\n- The letter shall mention patient name as Michael Johnson, and the encounter happened at 2024-01-23.\n- The letter shall mention that the patient reports symptoms worsening with exposure to outdoor environments.\n- The letter shall include information that Michael uses an inhaler for asthma and ordered tests for common allergens.\n- The letter shall not include a subject line or salutation, e.g., \"Dear colleague,\"."
+}

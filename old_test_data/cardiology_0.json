@@ -1,0 +1,28 @@
+{
+    "user_info": {
+        "name": "Dr. Helen Cho",
+        "email": "drhelencho@heartclinic.com"
+    },
+    "specialty": "Cardiology",
+    "note_date": "2023-10-15",
+    "note_content": {
+        "Patient Name": "Robert Smith",
+        "Patient Age": "65",
+        "Gender": "male",
+        "Chief Complaint": "Recent onset of chest pain and shortness of breath.",
+        "History of Present Illness": "Patient reports experiencing sharp chest pain that radiates to the left arm over the past two weeks, especially during physical exercise. Shortness of breath with minimal exertion.",
+        "Past Medical History": "Hypertension for 20 years, controlled with medication. No prior history of heart disease.",
+        "Past Surgical History": "Appendectomy in 1990.",
+        "Family History": "Father had heart disease and died from a myocardial infarction at age 68.",
+        "Social History": "Retired teacher, non-smoker, moderate alcohol intake.",
+        "Review of Systems": "Patient denies any symptoms of fever, cough, or urinary complaints. Has noticed increased fatigue.",
+        "Current Medications": "Amlodipine 10 mg daily.",
+        "Allergies": "None.",
+        "Vital Signs": "Blood pressure 160/90 mmHg, Heart rate 88 bpm, Respiratory rate 19 breaths per minute, Temperature 98.6 F.",
+        "Physical Examination": "Mild wheezing on auscultation, no edema, regular heart rhythm with no murmurs.",
+        "Investigations": "ECG performed, showing T wave inversions in lateral leads. Advised further evaluation with echocardiogram.",
+        "Problem": "Suspected angina pectoris",
+        "Differential Diagnosis": "Myocardial infarction, aortic dissection, pulmonary embolism.",
+        "Plan": "Initiate nitroglycerin as needed for chest pain. Increase dose of current hypertensive medication. Schedule for stress test and follow-up echocardiogram. Consider cardiology referral if conditions worsen."
+    }
+}

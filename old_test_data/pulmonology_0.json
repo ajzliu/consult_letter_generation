@@ -1,0 +1,25 @@
+{
+    "user_info": {
+        "name": "Dr. Richard Miles",
+        "email": "drrichardmiles@respiratoryclinic.com"
+    },
+    "specialty": "Pulmonology",
+    "note_date": "2023-03-15",
+    "note_content": {
+        "Patient Name": "Michael Thompson",
+        "Chief Complaint": "Difficulty breathing and persistent cough for the past 2 weeks",
+        "History of Present Illness": "\n• Cough began as dry but has progressively become more productive\n• Noted occasional wheezing and tightness in chest\n• No recent travel or sick contacts",
+        "Past Medical History": "Diagnosed with mild asthma in childhood, infrequent use of inhalers over the past few years",
+        "Past Surgical History": "Appendectomy at age 22",
+        "Family History": "Father has chronic obstructive pulmonary disease (COPD)",
+        "Social History": "Non-smoker, works as a construction foreman, lives with wife and two children",
+        "Current Medications": "Occasional use of albuterol inhaler",
+        "Allergies": "No known drug allergies",
+        "Vital Signs": "BP: 130/85 mmHg, HR: 78 bpm, Temp: 98.6 F, Resp: 24/min",
+        "Physical Examination": "\n• General: Alert and oriented\n• Respiratory: Increased respiratory rate, use of accessory muscles\n• Cardiovascular: Rhythm regular, no murmur\n• ENT: No sinus tenderness, throat clear\n• Chest: Diffuse wheezes heard on auscultation, no rales",
+        "Problem": "1. Exacerbation of asthma\n2. Rule out beginning stages of COPD",
+        "Differential Diagnosis": "• Asthma exacerbation\n• COPD\n• Acute bronchitis",
+        "Plan": "\n• Increase frequency of albuterol as needed\n• Prescribe course of oral corticosteroids\n• Recommend follow-up with primary care physician in 1 week\n• Suggest spirometry testing on follow-up visit to assess lung function\n• Advise avoiding known asthma triggers",
+        "Further Investigations": "• Spirometry after acute episode resolves\n• Chest X-ray to rule out other causes of symptoms"
+    }
+}
