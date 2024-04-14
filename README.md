@@ -187,6 +187,10 @@ The `test_consult_letter_generated.py` file is very similar to the `test_consult
 },
 ```
 
+#### Framework
+
+One potential framework for regression testing is to generate a large and comprehensive set of test cases with the assistant of GPT-4, and then benchmark each new iteration of the prompt against the set of test cases. The pass rate of the test cases would be the metric for the performance of the prompt.
+
 #### Further Extensions
 
 Further complexity can be added to the generated test cases by randomly choose some fields to be missing data and observe how the prompt handles it, choosing details to check for in a more rigorous way, or using more realistic examples of what the data will look like.
